@@ -18,17 +18,14 @@ organizations:
   url: "polisci.ucla.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Broadly, my work is in comparative politics with a regional focus on India. I study how corruption and
-criminal elements impede (or facilitate) public service delivery and how politicians’ personal characteristics
-shape governance strategies. In particular, I research how criminal politicians influence the delivery
-of India’s largest anti-poverty program. Methodologically, I’m interested in combining qualitative fieldwork with causal inference using observational and spatial data. 
-
+bio: Broadly, my work is in comparative politics with a regional focus on India.
 interests:
 - Indian Politics
 - Causal Inference
 - Criminal Politicians
 
 education:
+courses:
 - UCLA
 
 # Social/Academic Networking
@@ -64,6 +61,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Broadly, my work is in comparative politics with a regional focus on India. I study how corruption and
+criminal elements impede (or facilitate) public service delivery and how politicians’ personal characteristics
+shape governance strategies. In particular, I research how criminal politicians influence the delivery
+of India’s largest anti-poverty program. Methodologically, I’m interested in combining qualitative fieldwork with causal inference using observational and spatial data. 
