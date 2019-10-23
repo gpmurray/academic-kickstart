@@ -10,8 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate Political Science
-role: Master's Candidate Statistics
+role: Ph.D. Candidate Political Science 
+Master's Candidate Statistics
 
 # Organizations/Affiliations
 organizations:
