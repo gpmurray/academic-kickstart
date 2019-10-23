@@ -36,6 +36,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:gpmurray@ucla.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon = "linkedin"
+  icon_pack = "fa"
+  link = "//www.linkedin.com/in/galen-murray-53394570/"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GalenPMurray
