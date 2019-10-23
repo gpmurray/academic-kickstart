@@ -39,7 +39,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/GalenPMurray
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -61,7 +61,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Currently I’m a Ph.D. Canidate in Political Science, with a regional focus on India. I study how corruption and
+Currently I’m a Ph.D. Candidate in Political Science, with a regional focus on India. I study how corruption and
 criminal elements impede (or facilitate) public service delivery and how politicians’ personal characteristics
 shape governance strategies. In particular, I research how criminal politicians influence the delivery
 of India’s largest anti-poverty program. Methodologically, I’m interested in combining qualitative fieldwork with causal inference using observational and spatial data. My research is funded by the American Institute of Indian Studies Jr. Fellowship, UCLA’s Dissertation Fellowship and the UCLA International Institute.
