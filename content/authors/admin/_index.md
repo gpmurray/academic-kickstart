@@ -47,9 +47,9 @@ social:
   link: https://github.com/gpmurray
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
-  icon_pack: ai
-  link: files/Galen Murray_CV.pdf
+# - icon: cv
+#  icon_pack: ai
+# link: files/Galen Murray_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,5 +65,5 @@ criminal elements impede (or facilitate) public service delivery and how politic
 shape governance strategies. In particular, I research how criminal politicians influence the delivery
 of India’s largest anti-poverty program. Methodologically, I’m interested in combining qualitative fieldwork with causal inference using observational and spatial data. My research is funded by the American Institute of Indian Studies Jr. Fellowship, UCLA’s Dissertation Fellowship and the UCLA International Institute.
 
-{{% staticref "files/Galen Murray_CV.pdf" %}}Download my current CV here {{% /staticref %}}.
+{{% staticref "files/Galen Murray_CV.pdf" %}}Download my current CV here{{% /staticref %}}.
 
