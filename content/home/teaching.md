@@ -19,14 +19,4 @@ weight = 60
 
 +++
 
-
 - POL SCI 150: Introduction to Comparative Politics Summer 2016 {{% staticref "files/PS 50 Syllabus_Summer 2016.pdf" "newtab" %}}Syllabus{{% /staticref %}}
-#  - Summer 2019
-
-# **Teaching Fellow**
-# I have served as a Teaching Fellow for 15 courses, in three different departments at UCLA
-# - Political Science: Data Analysis, Political Economy, Politics of Migration, Foreign Relations, and others
-# - International Development Studies: Economic Development
-# - Communication: Research Methods
-
-# For further evidence of my teaching effectiveness please see {{% staticref "files/PS 50 Syllabus_Summer 2016.pdf" "newtab" %}here{{% /staticref %}}. 
