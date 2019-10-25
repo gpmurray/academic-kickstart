@@ -33,6 +33,6 @@ I have served as a Teaching Fellow for 15 courses, in three different department
 - International Development Studies: Economic Development
 - Communication: Research Methods
 
-For further evidence of my teaching effectiveness please see {{% staticref "files/PS 50 Syllabus_Summer 2016.pdf" "newtab" %}}here{{% /staticref %}}.
+For further evidence of my teaching effectiveness please see {{% staticref "files/Galen Murray_Evidence of Teaching Effectiveness_Final.pdf" "newtab" %}}here{{% /staticref %}}.
 
 
