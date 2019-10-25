@@ -17,11 +17,14 @@ weight = 60
 
 # To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
 
-+++
-
 **Instructor**
 
 My dissertation pairs 12 months of fieldwork in India, with novel administrative
 data collection, and rigorous causal analysis to understand the continued success of criminal
 politicians in India.
+
+
++++
+
+
 
