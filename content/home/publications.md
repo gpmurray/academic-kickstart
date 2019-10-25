@@ -66,15 +66,15 @@ subtitle = ""
  css_class = ""
 +++
 
-- Galen Murray {{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Do criminally charged politicians deliver? Evidence from India's National Rural Employment Guarantee Scheme{{% /staticref %}}
+- Galen Murray {{% staticref "files/Galen Murray_Criminal_RDD.pdf" %}}Do criminally charged politicians deliver? Evidence from India's National Rural Employment Guarantee Scheme{{% /staticref %}}.
 
-- Galen Murray {{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Criminal Politicians and Public Distribution System Corruption: Investigating Leakage in Bihar's PDS{{% /staticref %}}
+- Galen Murray {{% staticref "files/Galen Murray_PDS_Multilevel.pdf" %}}Criminal Politicians and Public Distribution System Corruption: Investigating Leakage in Bihar's PDS{{% /staticref %}}.
 
-- Galen Murray {{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Criminal Targets: spatial analysis of NREGS distribution to core supporters in India{{% /staticref %}}
+- Galen Murray {{% staticref "files/" %}}Criminal Targets: spatial analysis of NREGS distribution to core supporters in India{{% /staticref %}}.
 
-- Galen Murray and Megan West {{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Do bureaucrats show up? An analysis of bureaucratic attendance in Jharkhand, India{{% /staticref %}}.
+- Galen Murray and Megan West {{% staticref "files/Galen Murray Megan West _Jharkhand Biometric.pdf" %}}Do bureaucrats show up? An analysis of bureaucratic attendance in Jharkhand, India{{% /staticref %}}.
 
-- Chao-Yo Cheng, YuJung Lee, Galen Murray, Yuree Noh, Johannes Urpelainen, Joseph Van Horn {{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Political Obstacles to Economic Reform: Comparative Evidence from Twenty Indian States{{% /staticref %}}
+- Chao-Yo Cheng, YuJung Lee, Galen Murray, Yuree Noh, Johannes Urpelainen, Joseph Van Horn {{% staticref "files/IndiaPowerMAIN_Group.pdf" %}}Political Obstacles to Economic Reform: Comparative Evidence from Twenty Indian States{{% /staticref %}}.
 
 
 
