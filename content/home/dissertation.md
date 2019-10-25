@@ -27,5 +27,5 @@ Currently, over 40% of Indian Members of Parliament face a criminal charge. Desp
 
 To answer these questions, I construct a novel dataset detailing the criminal histories, wealth, and electoral results of all state legislative candidates in India since 2003 (N = 83,000). I measure political performance with original data on the geo-locations of over 20 million local public works projects from India’s largest anti-poverty scheme (the National Rural Employment Guarantee). Overall, I find criminal politicians underperform in office. 
 
-For a more detailed summary of my dissertation work, please see here.
+For a more detailed summary of my dissertation work, please see {{ %staticref "files/Dissertation Summary.pdf" %}}here{{ %/staticref %}}.
 
