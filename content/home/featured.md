@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Dissertation"
 subtitle = ""
 
 [content]
@@ -63,6 +63,9 @@ subtitle = ""
  css_class = ""
 +++
 
+My dissertation pairs 12 months of fieldwork in India, with novel administrative
+data collection, and rigorous causal analysis to understand the continued success of criminal
+politicians in India.
 
 Currently, over 40% of Indian Members of Parliament face a criminal charge. Despite intense political
 competition, candidates facing criminal charges are routinely elected across India at higher rates than clean
@@ -76,9 +79,6 @@ from India’s largest anti-poverty scheme (NREGS).
 Overall, I find criminal politicians underperform in office. To provide an alternative explanation for their electability, I
 draw on semi-structured interviews from 12 months of fieldwork. I argue that criminal politicians’ access
 to money, muscle, and networks provides a comparative advantage in personalized constituency service
-that voters prioritize over local public goods. My dissertation represents the first study of how criminally accused politicians fare in relaying state resources
-to their constituents and helps clarify a puzzling and troubling trend in Indian politics. At the same
-time, I contribute to our understanding of clientelism, the delivery of anti-poverty programs, and why violent
-politicians win elections.
+that voters prioritize over local public goods.
 
 For a more detailed summary of my dissertation work, please see here.
