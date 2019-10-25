@@ -28,9 +28,10 @@ weight = 60
 **Teaching Fellow**
 
 I have served as a Teaching Fellow for 15 courses, in three different departments at UCLA:
-- Political Science
-- International Development Studies
-- Communication
+
+- Political Science: Data Analysis, Political Economy, Foreign Relations, Politics of Migration, among others
+- International Development Studies: Economic Development
+- Communication: Research Methods
 
 For further evidence of my teaching effectiveness please see {{% staticref "files/PS 50 Syllabus_Summer 2016.pdf" "newtab" %}}here{{% /staticref %}}.
 
