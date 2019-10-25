@@ -65,3 +65,5 @@ criminal elements impede (or facilitate) public service delivery and how politic
 shape governance strategies. In particular, I research how criminal politicians influence the delivery
 of India’s largest anti-poverty program. Methodologically, I’m interested in combining qualitative fieldwork with causal inference using observational and spatial data. My research is funded by the American Institute of Indian Studies Jr. Fellowship, UCLA’s Dissertation Fellowship and the UCLA International Institute.
 
+{{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Download my current CV here {{% /staticref %}}.
+
