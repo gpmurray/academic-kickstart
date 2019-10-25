@@ -18,34 +18,24 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+Currently, over 40% of Indian Members of Parliament face a criminal charge. Despite intense political
+competition, candidates facing criminal charges are routinely elected across India at higher rates than clean
+candidates. My dissertation, Do Criminal Politicians Deliver? Evidence from India, asks why voters elect
+“criminal” politicians. Once elected, how do criminal politicians perform? To answer these questions, I
+construct a novel dataset detailing the criminal histories, wealth, and electoral results of all state legislative
+candidates in India since 2003 (N = 83,000). To measure criminal politicians’ performance, I combine the
+candidate dataset with original data on the geo-locations of over 20 million local public works projects
+from India’s largest anti-poverty scheme (NREGS).
+
+Overall, I find criminal politicians underperform in office. To provide an alternative explanation for their electability, I
+draw on semi-structured interviews from 12 months of fieldwork. I argue that criminal politicians’ access
+to money, muscle, and networks provides a comparative advantage in personalized constituency service
+that voters prioritize over local public goods. My dissertation represents the first study of how criminally accused politicians fare in relaying state resources
+to their constituents and helps clarify a puzzling and troubling trend in Indian politics. At the same
+time, I contribute to our understanding of clientelism, the delivery of anti-poverty programs, and why violent
+politicians win elections.
+
+For a more detailed summary of my dissertation work, please see here.
 
 +++
