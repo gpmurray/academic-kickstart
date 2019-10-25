@@ -29,9 +29,9 @@ weight = 60
 
 I have served as a Teaching Fellow for 15 courses, in three different departments at UCLA:
 
-- Political Science: Data Analysis, Political Economy, Foreign Relations, Politics of Migration, among others
-- International Development Studies: Economic Development
-- Communication: Research Methods
+- *Political Science*: Data Analysis, Political Economy, Foreign Relations, Politics of Migration, among others
+- *International Development Studies*: Economic Development
+- *Communication*: Research Methods
 
 For further evidence of my teaching effectiveness please see {{% staticref "files/Galen Murray_Evidence of Teaching Effectiveness_Final.pdf" "newtab" %}}here{{% /staticref %}}.
 
