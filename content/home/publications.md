@@ -77,7 +77,3 @@ subtitle = ""
 - Chao-Yo Cheng, YuJung Lee, Galen Murray, Yuree Noh, Johannes Urpelainen, Joseph Van Horn {{% staticref "files/IndiaPowerMAIN_Group.pdf" %}}Political Obstacles to Economic Reform: Comparative Evidence from Twenty Indian States{{% /staticref %}}.
 
 
-
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
