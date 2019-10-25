@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bunche Hall, UCLA", city = "Los Angeles", region = "CA", postcode = "90095", country = "United States", country_code = "US"}
+address = {street = "4272 Bunche Hall, UCLA", city = "Los Angeles", region = "CA", postcode = "90095", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -101,7 +101,7 @@ address = {street = "Bunche Hall, UCLA", city = "Los Angeles", region = "CA", po
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+# office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
