@@ -66,15 +66,15 @@ subtitle = ""
  css_class = ""
 +++
 
-- Galen Murray Do criminally charged politicians deliver? Evidence from India's National Rural Employment Guarantee Scheme.
+- Galen Murray {{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Do criminally charged politicians deliver? Evidence from India's National Rural Employment Guarantee Scheme{{% /staticref %}}
 
-- Galen Murray Criminal Politicians and Public Distribution System Corruption: Investigating Leakage in Bihar's PDS.
+- Galen Murray {{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Criminal Politicians and Public Distribution System Corruption: Investigating Leakage in Bihar's PDS{{% /staticref %}}
 
-- Galen Murray Criminal Targets: spatial analysis of NREGS distribution to core supporters in India.
+- Galen Murray {{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Criminal Targets: spatial analysis of NREGS distribution to core supporters in India{{% /staticref %}}
 
-- Galen Murray and Megan West Do bureaucrats show up? An analysis of bureaucratic attendance in Jharkhand, India.
+- Galen Murray and Megan West {{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Do bureaucrats show up? An analysis of bureaucratic attendance in Jharkhand, India{{% /staticref %}}.
 
-- Chao-Yo Cheng, YuJung Lee, Galen Murray, Yuree Noh, Johannes Urpelainen, Joseph Van Horn Political Obstacles to Economic Reform: Comparative Evidence from Twenty Indian States
+- Chao-Yo Cheng, YuJung Lee, Galen Murray, Yuree Noh, Johannes Urpelainen, Joseph Van Horn {{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Political Obstacles to Economic Reform: Comparative Evidence from Twenty Indian States{{% /staticref %}}
 
 
 
