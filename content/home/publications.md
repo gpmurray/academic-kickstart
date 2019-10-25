@@ -66,6 +66,18 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+- Galen Murray Do criminally charged politicians deliver? Evidence from India's National Rural Employment Guarantee Scheme.
+
+- Galen Murray Criminal Politicians and Public Distribution System Corruption: Investigating Leakage in Bihar's PDS.
+
+- Galen Murray Criminal Targets: spatial analysis of NREGS distribution to core supporters in India.
+
+- Galen Murray and Megan West Do bureaucrats show up? An analysis of bureaucratic attendance in Jharkhand, India.
+
+- Chao-Yo Cheng, YuJung Lee, Galen Murray, Yuree Noh, Johannes Urpelainen, Joseph Van Horn Political Obstacles to Economic Reform: Comparative Evidence from Twenty Indian States
+
+
+
+# {{% alert note %}}
+# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+# {{% /alert %}}
