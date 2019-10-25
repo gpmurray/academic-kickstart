@@ -19,8 +19,6 @@ weight = 60
 
 +++
 
-**Instructor**
-
 My dissertation pairs 12 months of fieldwork in India, with novel administrative
 data collection, and rigorous causal analysis to understand the continued success of criminal
 politicians in India.
