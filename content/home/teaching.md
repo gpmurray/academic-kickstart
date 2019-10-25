@@ -19,5 +19,6 @@ weight = 60
 
 +++
 
+**Instructor**
 - POL SCI 150: Introduction to Comparative Politics
   - Summer 2016 {{% staticref "files/PS 50 Syllabus_Summer 2016.pdf" "newtab" %}}Syllabus{{% /staticref %}}
