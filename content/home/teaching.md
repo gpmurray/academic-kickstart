@@ -19,4 +19,4 @@ weight = 60
 
 +++
 
-- POL SCI 150: Introduction to Comparative Politics. Summer 2016. {{% staticref "files/PS5001_syllabus_Spring2018.pdf" "newtab" %}}Syllabus{{% /staticref %}}
+- POL SCI 150: Introduction to Comparative Politics. Summer 2016. {{% staticref "files/PS 50 Syllabus_Summer 2016.pdf" "newtab" %}}Syllabus{{% /staticref %}}
